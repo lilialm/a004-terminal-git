@@ -1,5 +1,5 @@
 # Minha Mini Biografia #
-Me chamo _Lilian_, Tenho 20 anos e moro na Zona Oeste do Rio de Janeiro. Sou do signo de peixes e faço aniversario dia 7 de março. Tenho um cachorro chamado Romeo e um gato chamado Koda e eu amo muito os dois. Sou apaixonada por uma menina chamada Elena e namoramos vai fazer 3 meses.  Sou _também_ apaixonada pela indústria do audiovisual, ou seja, a _cinematográfica_, até mais do que sou por programação, mas a programação ainda consegue chegar perto! Quando não estou vendo um filme ou estudando, gosto bastante de ler.
+Me chamo _Lilian_, Tenho 20 anos e moro na Zona Oeste do Rio de Janeiro. Sou do signo de peixes e faço aniversario dia 7 de março. Tenho um cachorro chamado Romeo e um gato chamado Koda e eu amo muito os dois.  Sou apaixonada pela indústria do audiovisual, ou seja, a _cinematográfica_, até mais do que sou por programação, mas a programação ainda consegue chegar perto! Quando não estou vendo um filme ou estudando, gosto bastante de ler.
 
 **Um resumo de como entrei para a programação:**
 
